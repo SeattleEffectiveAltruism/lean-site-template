@@ -24,14 +24,14 @@ DefaultContentLanguage = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
-  strapline = "Helping you do good better"
+  fullTitle = "Seattle Effective Altruism"
+  strapline = "Helping the Puget Sound do good better"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
   legalOrgName = "Effective Altruism <City Here>"
   orgLocations = "this location and that location"
-  contactEmail = "yourEAGroupEmail@here.com"
+  contactEmail = "seattle-ea-org@gmail.com"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -57,7 +57,7 @@ DefaultContentLanguage = "en"
   topBannerText = "Who are we?"
   leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
   firstSectionHeader = "Doing good better"
-  secondSectionHeader = "Building a community"
+  secondSectionHeader = "Building a rational community"
   thirdSectionHeader = "Finding better ways to help"
   bottomBannerText = "A proud member of the effective altruism network"
 
@@ -85,6 +85,6 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = ""
-  twitterUrl = ""
-  meetupUrl = ""
+  facebookUrl = "https://www.facebook.com/groups/SeattleEffectiveAltruists/"
+  #twitterUrl = ""
+  meetupUrl = "https://www.meetup.com/Seattle-Effective-Altruists/"
