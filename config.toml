@@ -29,8 +29,8 @@ DefaultContentLanguage = "en"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
-  legalOrgName = "Effective Altruism <City Here>"
-  orgLocations = "this location and that location"
+  legalOrgName = "Seattle Effective Altruism"
+  #orgLocations = "this location and that location"
   contactEmail = "seattle-ea-org@gmail.com"
 
   [Languages.en.navbar]
