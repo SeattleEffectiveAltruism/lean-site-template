@@ -56,9 +56,9 @@ DefaultContentLanguage = "en"
    ## -- HOMEPAGE -- ##
   topBannerText = "Who are we?"
   leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
-  firstSectionHeader = "Doing good better"
+  firstSectionHeader = "Using reason and evidence"
   secondSectionHeader = "Building a rational community"
-  thirdSectionHeader = "Finding better ways to help"
+  thirdSectionHeader = "Finding the biggest positive impacts"
   bottomBannerText = "A proud member of the effective altruism network"
 
   [Languages.en.contactform]
@@ -74,9 +74,9 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "First Button Text"
+  firstButtonText = "About Seattle EA"
   firstButtonLink = ""
-  secondButtonText = "Second Button Text"
+  secondButtonText = "Keep in Touch"
   secondButtonLink = ""
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
