@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Seattle Effective Altruism and Rationality"
+  title = "Seattle Effective Altruism and Rationality Community"
   weight = 1
   languageCode = "en"
 
