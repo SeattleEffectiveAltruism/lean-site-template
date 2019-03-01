@@ -18,14 +18,14 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Seattle Effective Altruism and Rationality Community"
+  title = "Seattle Effective Altruism"
   weight = 1
   languageCode = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Seattle Effective Altruism"
-  strapline = "Helping the Puget Sound do good better"
+  fullTitle = "Welcome to the Seattle Effective Altruism and Rationality Community"
+  strapline = "Helping residents of the Puget Sound do good better"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
