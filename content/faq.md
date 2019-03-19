@@ -11,7 +11,7 @@ draft: false
 
 
 The core idea:  
-
+<iframe src="https://calendar.google.com/calendar/embed?src=seattle.effective.altruism%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 **Effective altruism is using evidence and analysis to take actions that help others as much as possible.**
 
